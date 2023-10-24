@@ -6460,10 +6460,10 @@ loader-utils@^2.0.0:
     emojis-list "^3.0.0"
     json5 "^2.1.2"
 
-local-storage-proxy@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.npmmirror.com/local-storage-proxy/-/local-storage-proxy-4.0.3.tgz#25bfc0363af559248b7b4e3f46d62d7fc292a0b2"
-  integrity sha512-07e/qClDqhyusxadyYrazEvFyQcMm2NkPCyDZstoDyAtqRZxTaCZNTnKps7lTWyTuqQfsiSXg4wfGLLdmraO4Q==
+local-storage-proxy@^4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/local-storage-proxy/-/local-storage-proxy-4.0.4.tgz#5dfaea068a820dbbe63c5c6a3264117eb92593d6"
+  integrity sha512-tRsX9ECtSVLe8zfypCAAzUIWegHTtbzJ+O/XGFzQJ4WS1eOVO7jdulSxY0yI45bfwnB5MPtiMQyr2XUN8tNKXw==
   dependencies:
     webassert "^3.0.1"
 
